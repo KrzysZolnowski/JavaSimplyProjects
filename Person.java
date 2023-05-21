@@ -4,10 +4,6 @@ public class Person {
         int a = 3;
         String b = "abc";
         int c = 2;
-        String random = " wp";
-
-
-        int xd = 234;
     }
 
 }
